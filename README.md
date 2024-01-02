@@ -1,1 +1,1 @@
-MY NEWCONNECT4 FILE IS MY UPDATED OBJECT ORIENTED VERSION OF THE GAME!
+MY NEWCONNECT4 FILE IS MY UPDATED OBJECT ORIENTED VERSION OF THE GAME! After days of struggling to get my logic right. I did implement some ideas from youtube and just learning how others were able to make their game. I was able to create the game and eventually update the game as well. 
